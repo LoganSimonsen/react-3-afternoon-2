@@ -61,14 +61,11 @@
       "featured": false
     },
     {
-      "id": 6,
-      "name": "Janise Suski",
-      "userID": 5,
-      "image": "http://www.onlinetypingjobs.org/wp-content/uploads/2016/10/typing-jobs.jpg",
       "title": "The Time A Camera Crew Recorded Me Typing",
-      "subTitle": "Don't Type Louder",
+      "subTitle": "xcvzxcv",
+      "image": "http://www.onlinetypingjobs.org/wp-content/uploads/2016/10/typing-jobs.jpg",
       "text": "The news crew came to film an interview with Tyler the creator (of DevMountain) and set up the cameras in our classroom. They shot the interview in front of my desk. With the lights in my eyes, I tried to focus on my work and not look directly into the camera. I put on my best poker face, sat up straight and did my work. After they finished the interview, the camera guy came up to me and asked if he could record me typing on my laptop to get a sound byte for their segment. I reluctantly agreed, even though I hate being recorded. He told everyone to be quiet and put the camera really close to my hands. I instantly forgot every single word in the English language and started typing gibberish, really hoping that he wasn't filming my computer screen, which currently looked like, ';al;sdjfaeia;lsdkfa;kea;aosiefa;nfa;esjf'. I thought I heard him say, 'Can you please type louder?' So I started pounding on my keyboard, while still not typing any actual words. Apparently I had been making a face showing my discomfort because, out of the corner of my eye, I saw a group of people watching me, doubled over in silent laughter. At this point, I also realized that the camera man had asked me to type more distinctly, and not louder, because I was still very apparently typing gibberish. After an awkward minute of silence, a large camera pointed at my hands, and an annoyed camera man not getting the shot he wanted because I was still not typing any more distinctly, the camera crew left. I really hope they don't use any of those shots. I don't know if I could handle the fame that comes with the skill of awkwardly typing in a silent, brightly lit classroom.",
-      "featured": true
+      "id": 6
     },
     {
       "id": 7,
@@ -301,6 +298,12 @@
       "name": "Leo",
       "img": "https://unsplash.it/300/?random",
       "desc": "I'm not real. I'm just a pseudonym of a guy that doesn't like waiting for fast food workers to figure out how to spell his name."
+    },
+    {
+      "name": "James",
+      "img": "",
+      "desc": "giant peach",
+      "id": 13
     }
   ]
 }
